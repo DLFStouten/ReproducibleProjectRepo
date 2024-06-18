@@ -1,7 +1,7 @@
 myreproducibleproject
 ==============================
 
-This is my reproducible project
+Drentse Hondsrug model
 
 Project Organization
 --------------------
